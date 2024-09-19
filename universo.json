@@ -1,5 +1,15 @@
 {
-    "agua": "azul",
-    "terra": "roxa",
-    "céu": "vermelho"
+    "agua": "verde",
+    "terra": "vermelha",
+    "céu": "vermelho",
+    "homem": [
+        {
+            "nome": "joao",
+            "idade": "28"
+        },
+        {
+            "nome": "Mikeias",
+            "idade": "28"
+        }
+    ]
 }
