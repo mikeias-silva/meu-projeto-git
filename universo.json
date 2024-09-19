@@ -1,10 +1,10 @@
 {
     "agua": "verde",
     "terra": "vermelha",
-    "céu": "vermelho",
+    "ceu": "vermelho",
     "homem": [
         {
-            "nome": "joao",
+            "nome": "Pedro",
             "idade": "28"
         },
         {
